@@ -2369,6 +2369,12 @@ export const fileIcons: FileIcons = {
     { name: 'stylable', fileExtensions: ['st.css'] },
     { name: 'pinejs', fileExtensions: ['pine'] },
     {
+      name: 'duc',
+      fileNames: [
+        '.duc.json',
+      ],
+    },
+    {
       name: 'nano-staged',
       light: true,
       fileNames: [
